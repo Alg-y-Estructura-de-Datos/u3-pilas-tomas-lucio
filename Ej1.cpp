@@ -1,9 +1,10 @@
 #include <iostream>
+#include "Pila/Pila.h"
 using namespace std;
 
 int main() {
-
-    cout << "Ejercicio N° 1" << endl;
-
+    Pila<char> pila;
+    
+    
     return 0;
 }

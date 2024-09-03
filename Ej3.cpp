@@ -1,9 +1,14 @@
 #include <iostream>
+#include "Pila/Pila.h"
 using namespace std;
 
+void eliminar(Pila<int>& pila,int num)
+{
+    
+}
+
 int main() {
-
-    cout << "Ejercicio N° 3" << endl;
-
+    Pila<int> pila;
+    
     return 0;
 }
